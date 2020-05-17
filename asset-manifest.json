@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/designtshirt/static/css/main.489daea2.chunk.css",
+    "main.js": "/designtshirt/static/js/main.0a6e155c.chunk.js",
+    "main.js.map": "/designtshirt/static/js/main.0a6e155c.chunk.js.map",
+    "runtime-main.js": "/designtshirt/static/js/runtime-main.36ea17a0.js",
+    "runtime-main.js.map": "/designtshirt/static/js/runtime-main.36ea17a0.js.map",
+    "static/js/2.00373c26.chunk.js": "/designtshirt/static/js/2.00373c26.chunk.js",
+    "static/js/2.00373c26.chunk.js.map": "/designtshirt/static/js/2.00373c26.chunk.js.map",
+    "index.html": "/designtshirt/index.html",
+    "precache-manifest.938f74c1652756b8226afbdf4423f7b5.js": "/designtshirt/precache-manifest.938f74c1652756b8226afbdf4423f7b5.js",
+    "service-worker.js": "/designtshirt/service-worker.js",
+    "static/css/main.489daea2.chunk.css.map": "/designtshirt/static/css/main.489daea2.chunk.css.map",
+    "static/js/2.00373c26.chunk.js.LICENSE.txt": "/designtshirt/static/js/2.00373c26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36ea17a0.js",
+    "static/js/2.00373c26.chunk.js",
+    "static/css/main.489daea2.chunk.css",
+    "static/js/main.0a6e155c.chunk.js"
+  ]
+}
